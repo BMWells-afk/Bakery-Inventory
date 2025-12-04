@@ -4,34 +4,39 @@
     "name": "Chocolate Chip Cookie",
     "qty": 24,
     "price": 2.50,
-     "image": "https://pixabay.com/photos/cookie-chocolate-chip-cookie-snack-1264231/"
+    "description": "Delicious chocolate chip cookies made with real chocolate chips.",
+     "image": "/choc_cookie.jpg"
   },
   {
     "sku": "002",
     "name": "Blueberry Muffin",
     "qty": 12,
     "price": 3.00,
-    "image": "https://pixabay.com/photos/cookie-chocolate-chip-cookie-snack-1264231/"
+    "description": "Freshly baked blueberry muffins with a hint of lemon zest.",
+    "image": "/blueberry_muffin.jpg"
   },
   {
     "sku": "003",
     "name": "Cinnamon Roll",
     "qty": 6,
     "price": 4.00,
-    "image": "https://pixabay.com/photos/cookie-chocolate-chip-cookie-snack-1264231/"
+    "description": "Soft and gooey cinnamon rolls topped with cream cheese icing.",
+    "image": "/cinnamon_roll.jpg"
   },
   {
     "sku": "004",
     "name": "Bagel",
     "qty": 24,
     "price": 2.00,
-    "image": "https://pixabay.com/photos/cookie-chocolate-chip-cookie-snack-1264231/"
+    "description": "Classic bagels, perfect for breakfast or a snack.",
+    "image": "/bagel.jpg"
   },
   {
     "sku": "005",
     "name": "Banana Bread Slice",
     "qty": 12,
     "price": 2.75,
-    "image": "https://pixabay.com/photos/cookie-chocolate-chip-cookie-snack-1264231/"
+    "description": "Moist banana bread slices made with ripe bananas and walnuts.",
+    "image": "/banana_bread.jpg"
   }
 ]

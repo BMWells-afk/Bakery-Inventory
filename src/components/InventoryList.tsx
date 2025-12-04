@@ -7,6 +7,8 @@ interface Product {
     name: string;   
     qty: number;
     price: number;
+    image: string;
+    description: string;
 }
 
 interface InventoryListProps {
