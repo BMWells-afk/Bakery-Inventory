@@ -3,30 +3,35 @@
     "sku": "001",
     "name": "Chocolate Chip Cookie",
     "qty": 24,
-    "price": 2.50
+    "price": 2.50,
+     "image": "https://pixabay.com/photos/cookie-chocolate-chip-cookie-snack-1264231/"
   },
   {
     "sku": "002",
     "name": "Blueberry Muffin",
     "qty": 12,
-    "price": 3.00
+    "price": 3.00,
+    "image": "https://pixabay.com/photos/cookie-chocolate-chip-cookie-snack-1264231/"
   },
   {
     "sku": "003",
     "name": "Cinnamon Roll",
     "qty": 6,
-    "price": 4.00
+    "price": 4.00,
+    "image": "https://pixabay.com/photos/cookie-chocolate-chip-cookie-snack-1264231/"
   },
   {
     "sku": "004",
     "name": "Bagel",
     "qty": 24,
-    "price": 2.00
+    "price": 2.00,
+    "image": "https://pixabay.com/photos/cookie-chocolate-chip-cookie-snack-1264231/"
   },
   {
     "sku": "005",
     "name": "Banana Bread Slice",
     "qty": 12,
-    "price": 2.75
+    "price": 2.75,
+    "image": "https://pixabay.com/photos/cookie-chocolate-chip-cookie-snack-1264231/"
   }
 ]
