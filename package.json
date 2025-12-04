@@ -2,7 +2,7 @@
   "name": "bakery-inventory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bmwells-afk.github.io/Bakery-Inventory/",
+
   "dependencies": 
   {
     "@testing-library/dom": "^10.4.1",
