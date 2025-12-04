@@ -1,0 +1,10 @@
+.inventory-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.inventory-list::after {
+    content: "";
+    flex-grow: 1;
+}

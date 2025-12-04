@@ -1,0 +1,21 @@
+.inventory-item {
+    border: 1px solid #317cd1;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    width: 250px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    background-color: #f8f7ed;
+}
+
+.inventory-item:hover {
+    transform: scale(1.05);
+}
+
+.product-name {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #333;
+}   
+
