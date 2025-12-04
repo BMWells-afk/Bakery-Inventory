@@ -7,7 +7,6 @@ Assignment focusing on creating a React app for a store inventory system.
 
 ## Notes
 - Spent alot of troubleshooting on this one and followed along on the class recordings. 
-- I wasn't able to get the "favicon" to appear in the url
 - I wasn't sure what items I could delete that imported in from CRA
 - The "view details" buttons show additional pages with more inventory items
 
