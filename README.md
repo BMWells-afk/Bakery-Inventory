@@ -20,7 +20,7 @@ Assignment focusing on creating a React app for a store inventory system.
 - app.css
 
 ## How to run this app
-- to go bakery-inventory terminal enter npm install and then npm start
+- https://bmwells-afk.github.io/Bakery-Inventory/
 
 ## Author
 - Brittney Wells
