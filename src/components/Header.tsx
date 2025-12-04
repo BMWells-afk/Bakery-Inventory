@@ -10,7 +10,7 @@ const Header = () => {
             <div className="logo-container">
                 <Logo />
             </div>
-            <h1 className="header-title">Well's Bakery Inventory</h1>
+            <h1 className="header-title">My Bakery Inventory</h1>
         </header>
     )
 }
