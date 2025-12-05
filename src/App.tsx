@@ -8,7 +8,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Bakery-Inventory">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Products />} />
