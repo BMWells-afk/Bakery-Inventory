@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bakery-Inventory/static/css/main.686f1667.css",
+    "main.js": "/Bakery-Inventory/static/js/main.68df87fb.js",
+    "static/js/453.70d5a6ec.chunk.js": "/Bakery-Inventory/static/js/453.70d5a6ec.chunk.js",
+    "index.html": "/Bakery-Inventory/index.html",
+    "main.686f1667.css.map": "/Bakery-Inventory/static/css/main.686f1667.css.map",
+    "main.68df87fb.js.map": "/Bakery-Inventory/static/js/main.68df87fb.js.map",
+    "453.70d5a6ec.chunk.js.map": "/Bakery-Inventory/static/js/453.70d5a6ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.686f1667.css",
+    "static/js/main.68df87fb.js"
+  ]
+}
