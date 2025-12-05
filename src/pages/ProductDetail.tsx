@@ -25,7 +25,7 @@ const ProductDetail = () => {
                 <p className="sku">SKU: {product?.sku}</p>
                 <p className="qty">Qty: {product?.qty}</p>
                 <p className="price">Price: ${product?.price}</p>
-                <button className="add-to-cart">Add to Cart</button>
+                <button className="add-to-cart-btn">Add to Cart</button>
         </div>
 
     );
