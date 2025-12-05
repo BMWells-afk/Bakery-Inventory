@@ -5,7 +5,7 @@
     "qty": 24,
     "price": 2.50,
     "description": "Delicious chocolate chip cookies made with real chocolate chips.",
-     "image": "/choc_cookie.jpg"
+     "image": "images/choc_cookie.jpg"
   },
   {
     "sku": "002",
@@ -13,7 +13,7 @@
     "qty": 12,
     "price": 3.00,
     "description": "Freshly baked blueberry muffins with a hint of lemon zest.",
-    "image": "/blueberry_muffin.jpg"
+    "image": "images/blueberry_muffin.jpg"
   },
   {
     "sku": "003",
@@ -21,7 +21,7 @@
     "qty": 6,
     "price": 4.00,
     "description": "Soft and gooey cinnamon rolls topped with cream cheese icing.",
-    "image": "/cinnamon_roll.jpg"
+    "image": "images/cinnamon_roll.jpg"
   },
   {
     "sku": "004",
@@ -29,7 +29,7 @@
     "qty": 24,
     "price": 2.00,
     "description": "Classic bagels, perfect for breakfast or a snack.",
-    "image": "/bagel.jpg"
+    "image": "images/bagel.jpg"
   },
   {
     "sku": "005",
@@ -37,6 +37,6 @@
     "qty": 12,
     "price": 2.75,
     "description": "Moist banana bread slices made with ripe bananas and walnuts.",
-    "image": "/banana_bread.jpg"
+    "image": "images/banana_bread.jpg"
   }
 ]
