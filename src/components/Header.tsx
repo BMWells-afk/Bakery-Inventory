@@ -1,7 +1,7 @@
 import './Header.css';
 
 const Logo = () => (
-    <img src="/bakery-logo.png" alt="Bakery Logo" className="logo-image" />
+    <img src="images/bakery-logo.png" alt="Bakery Logo" className="logo-image" />
 );
 
 const Header = () => {
