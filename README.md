@@ -11,6 +11,7 @@ Assignment focusing on creating a React app for a store inventory system, that s
 - there is a link to go back to products in the view "details" page
 - The header displays a gradient background a large logo image with the company name
 - The footer displays the current year and company name
+- There is a bakery icon that displays in the pages tab
 
 
 ## Project Contents
