@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Bakery-Inventory/static/css/main.686f1667.css",
-    "main.js": "/Bakery-Inventory/static/js/main.2cfccfa0.js",
+    "main.css": "/Bakery-Inventory/static/css/main.c34a7c90.css",
+    "main.js": "/Bakery-Inventory/static/js/main.cca78c47.js",
     "static/js/453.70d5a6ec.chunk.js": "/Bakery-Inventory/static/js/453.70d5a6ec.chunk.js",
     "index.html": "/Bakery-Inventory/index.html",
-    "main.686f1667.css.map": "/Bakery-Inventory/static/css/main.686f1667.css.map",
-    "main.2cfccfa0.js.map": "/Bakery-Inventory/static/js/main.2cfccfa0.js.map",
+    "main.c34a7c90.css.map": "/Bakery-Inventory/static/css/main.c34a7c90.css.map",
+    "main.cca78c47.js.map": "/Bakery-Inventory/static/js/main.cca78c47.js.map",
     "453.70d5a6ec.chunk.js.map": "/Bakery-Inventory/static/js/453.70d5a6ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.686f1667.css",
-    "static/js/main.2cfccfa0.js"
+    "static/css/main.c34a7c90.css",
+    "static/js/main.cca78c47.js"
   ]
 }
