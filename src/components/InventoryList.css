@@ -7,8 +7,8 @@
     max-width: 100%;
 }
 
-.inventory-list.inventory-list::after {
-    content: "";
-    flex-grow: 1;
-    
+.inventory-list h2 {
+    text-align: center;
+    color: #555;
+    margin-bottom: 20px;
 }
