@@ -1,4 +1,4 @@
-# CS601 - HW6 - Inventory System with React
+# BU CS601 - HW6 - Bakery Inventory System with React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

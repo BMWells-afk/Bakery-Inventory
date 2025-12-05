@@ -8,8 +8,7 @@ import './App.css';
 
 function App() {
   return (
-    // basename="/Bakery-Inventory" add after BrowserRouter for GitHub Pages
-    <BrowserRouter > 
+    <BrowserRouter basename="/Bakery-Inventory">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Products />} />
