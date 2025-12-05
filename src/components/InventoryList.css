@@ -10,5 +10,21 @@
 .inventory-list h2 {
     text-align: center;
     color: #555;
-    margin-bottom: 20px;
+}
+
+.product-image {
+    width: 100%;
+    aspect-ratio: 1.1 / 1;
+    object-fit: cover;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.products-page h2 {
+    text-align: center;
+    color: #555;
+    margin-top: 0px;
+    margin-bottomL: 0px;
 }
