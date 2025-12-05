@@ -8,7 +8,7 @@
 }
 
 .inventory-list h2 {
-    text-align: center;
+    text-align: left;
     color: #555;
 }
 
@@ -25,6 +25,5 @@
 .products-page h2 {
     text-align: center;
     color: #555;
-    margin-top: 0px;
-    margin-bottomL: 0px;
+
 }
