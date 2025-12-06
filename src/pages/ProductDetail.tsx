@@ -21,7 +21,7 @@ const ProductDetail = () => {
     return (
         <div className="product-detail">
             <Link to="/products" className="back-link">← Back to Products</Link>
-            <img src={product.image} alt={product.name} className="product-image" />
+            <img src={`${process.env.PUBLIC_URL}${product.image}`} alt={product.name} className="product-image" />
             <h2>{product.name}</h2>
             <p className="sku">SKU: {product.sku}</p>
             <p className=" qty">Qty: {product.qty}</p>
