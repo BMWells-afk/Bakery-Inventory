@@ -24,7 +24,7 @@ const ProductDetail = () => {
             <img src={`${process.env.PUBLIC_URL}${product.image}`} alt={product.name} className="product-image" />
             <h2>{product.name}</h2>
             <p className="sku">SKU: {product.sku}</p>
-            <p className=" qty">Qty: {product.qty}</p>
+            <p className="qty">Qty: {product.qty}</p>
             <p className="price">Price: ${product.price}</p>
             <p className="description">{product.description}</p>
             <button className="add-to-cart-button">Add to Cart</button>
