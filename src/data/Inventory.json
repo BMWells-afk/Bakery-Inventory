@@ -5,7 +5,7 @@
     "qty": 24,
     "price": 2.50,
     "description": "Delicious chocolate chip cookies made with real chocolate chips.",
-     "image": "/images/choc_cookie.jpg"
+     "image": "/docs/images/choc_cookie.jpg"
   },
   {
     "sku": "002",
